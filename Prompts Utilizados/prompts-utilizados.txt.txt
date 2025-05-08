@@ -1,0 +1,19 @@
+Receita Mensal
+Prompt:
+
+Analise esta planilha de vendas e calcule a receita líquida (total_price - discount_value) por mês. Retorne os valores mês a mês de forma ordenada e destaque o mês com maior receita.
+
+👥 Perfil Demográfico dos Clientes
+Prompt:
+
+Com base na coluna de datas de nascimento dos compradores, calcule a idade dos clientes e agrupe-os por faixa etária (18–25, 26–35, 36–45, 46–55, 56–65, 65+). Quantos pedidos foram feitos por cada faixa?
+
+🏆 Top Produtos por Receita
+Prompt:
+
+Quais foram os 5 produtos com maior receita líquida total (considerando total_price - discount_value)? Liste os nomes dos produtos e os valores somados.
+
+🛒 Receita por Plataforma
+Prompt:
+
+Agrupe os dados por site de venda (coluna “site”) e calcule a receita líquida total por plataforma. Qual site gerou mais receita?
