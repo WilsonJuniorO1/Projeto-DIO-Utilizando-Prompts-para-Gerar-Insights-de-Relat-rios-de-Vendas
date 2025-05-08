@@ -15,7 +15,7 @@ Este projeto utiliza ferramentas de Inteligência Artificial para análise de re
 - `dados/`: base de dados original utilizada.
 - `prompts/`: prompts aplicados com IA.
 - `insights/`: análises e insights extraídos.
-- `imagens/`: gráficos e visualizações (se houver).
+- `imagens/`: gráficos e visualizações.
 
 ## 🛠 Ferramentas Utilizadas
 - ChatGPT / IA Generativa
